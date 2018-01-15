@@ -4,7 +4,7 @@
    "details": [
     {
      "appID": "L7VBGDSG8P.ru.stickerride",
-     "paths": [ "/campaigns/" ]
+     "paths": [ "*" ]
     }
   ]
  }
